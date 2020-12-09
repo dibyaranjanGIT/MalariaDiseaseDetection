@@ -1,0 +1,5 @@
+Use Google Colab to run your deep learning code
+Use AMAZON EC2 Instance for deployment
+Use Health App code from Devanshu and Vedenta
+TensorBoard
+Check for VGG16 Documentation
